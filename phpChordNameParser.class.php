@@ -1,7 +1,4 @@
 <?php
-// TODO
-// 		Generate chord name from intervals above root
-//		What if more than one token combine to reduce an included tone to <= 0 ?
 class chord {
 	public $root;
 	public $bass;
